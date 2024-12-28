@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.blockz.budgeteer.android.androidApp-mergeDebugResources-41:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/michael/.gradle/caches/8.9/transforms/1728e7ed5f3304de240b44ebc68bbbe8/transformed/core-1.10.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

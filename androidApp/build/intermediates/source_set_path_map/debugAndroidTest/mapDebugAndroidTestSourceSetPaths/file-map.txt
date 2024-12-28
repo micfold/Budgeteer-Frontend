@@ -1,0 +1,4 @@
+io.blockz.budgeteer.android.test.androidApp-androidTest-0 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/generated/res/resValues/androidTest/debug
+io.blockz.budgeteer.android.test.androidApp-mergeDebugAndroidTestResources-1 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+io.blockz.budgeteer.android.test.androidApp-mergeDebugAndroidTestResources-2 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+io.blockz.budgeteer.android.test.androidApp-debugAndroidTest-3 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

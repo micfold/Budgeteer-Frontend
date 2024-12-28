@@ -1,0 +1,47 @@
+io.blockz.budgeteer.android.androidApp-ui-text-release-0 /Users/michael/.gradle/caches/8.9/transforms/066b2685b1a0f6f62eb367a79a58a80f/transformed/ui-text-release/res
+io.blockz.budgeteer.android.androidApp-activity-ktx-1.8.0-1 /Users/michael/.gradle/caches/8.9/transforms/07d84a7149e7535840bab0e376e4ac3f/transformed/activity-ktx-1.8.0/res
+io.blockz.budgeteer.android.androidApp-core-1.10.0-2 /Users/michael/.gradle/caches/8.9/transforms/1728e7ed5f3304de240b44ebc68bbbe8/transformed/core-1.10.0/res
+io.blockz.budgeteer.android.androidApp-core-runtime-2.2.0-3 /Users/michael/.gradle/caches/8.9/transforms/189fcb73eff7ae5d94666464070ca227/transformed/core-runtime-2.2.0/res
+io.blockz.budgeteer.android.androidApp-material-ripple-1.4.1-4 /Users/michael/.gradle/caches/8.9/transforms/1db155b96d38ddbf38fe497fecfe79ad/transformed/material-ripple-1.4.1/res
+io.blockz.budgeteer.android.androidApp-runtime-saveable-release-5 /Users/michael/.gradle/caches/8.9/transforms/1e2cd64dad0a96c851507f70189695e2/transformed/runtime-saveable-release/res
+io.blockz.budgeteer.android.androidApp-ui-geometry-release-6 /Users/michael/.gradle/caches/8.9/transforms/28ea3ae04bb8a8e4e28ed16883b2a89b/transformed/ui-geometry-release/res
+io.blockz.budgeteer.android.androidApp-lifecycle-runtime-ktx-2.6.1-7 /Users/michael/.gradle/caches/8.9/transforms/37aaf1e851a2e6b78bd8444c702da87c/transformed/lifecycle-runtime-ktx-2.6.1/res
+io.blockz.budgeteer.android.androidApp-lifecycle-viewmodel-savedstate-2.6.1-8 /Users/michael/.gradle/caches/8.9/transforms/3a20c431e8fc54dff5fec326f47bcb74/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+io.blockz.budgeteer.android.androidApp-lifecycle-viewmodel-2.6.1-9 /Users/michael/.gradle/caches/8.9/transforms/3abf8a07a0f4385b4684aa3a036ab403/transformed/lifecycle-viewmodel-2.6.1/res
+io.blockz.budgeteer.android.androidApp-ui-release-10 /Users/michael/.gradle/caches/8.9/transforms/461a9d9edccd3c2b9d0be5e7d0d2e91d/transformed/ui-release/res
+io.blockz.budgeteer.android.androidApp-lifecycle-process-2.6.1-11 /Users/michael/.gradle/caches/8.9/transforms/4a7e230a4bebc4081c21d0caf1f2ccab/transformed/lifecycle-process-2.6.1/res
+io.blockz.budgeteer.android.androidApp-emoji2-1.4.0-12 /Users/michael/.gradle/caches/8.9/transforms/4c0b0339afc3e3dcaf21baed7f7db961/transformed/emoji2-1.4.0/res
+io.blockz.budgeteer.android.androidApp-foundation-layout-release-13 /Users/michael/.gradle/caches/8.9/transforms/545e51ee30b4fb4aa8ac335ca06d3131/transformed/foundation-layout-release/res
+io.blockz.budgeteer.android.androidApp-lifecycle-livedata-core-2.6.1-14 /Users/michael/.gradle/caches/8.9/transforms/5e6056e6e2e2de484f2789f96109a65c/transformed/lifecycle-livedata-core-2.6.1/res
+io.blockz.budgeteer.android.androidApp-material-icons-core-1.4.1-15 /Users/michael/.gradle/caches/8.9/transforms/5f51bb2c96a7377e290495c685b5e758/transformed/material-icons-core-1.4.1/res
+io.blockz.budgeteer.android.androidApp-activity-1.8.0-16 /Users/michael/.gradle/caches/8.9/transforms/63abecf05a07fffff53446b575d889cb/transformed/activity-1.8.0/res
+io.blockz.budgeteer.android.androidApp-ui-tooling-preview-release-17 /Users/michael/.gradle/caches/8.9/transforms/6b092fdc54c0d81266cf379c44f61fb8/transformed/ui-tooling-preview-release/res
+io.blockz.budgeteer.android.androidApp-ui-tooling-data-release-18 /Users/michael/.gradle/caches/8.9/transforms/6b888d76eb94ec2c4f1e95ce080baa78/transformed/ui-tooling-data-release/res
+io.blockz.budgeteer.android.androidApp-ui-util-release-19 /Users/michael/.gradle/caches/8.9/transforms/72c1b5c8a40edc4db3dd13e14aeebfe0/transformed/ui-util-release/res
+io.blockz.budgeteer.android.androidApp-lifecycle-viewmodel-ktx-2.6.1-20 /Users/michael/.gradle/caches/8.9/transforms/7bff4b86c1681d36b52f4e7cd44a6b3f/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+io.blockz.budgeteer.android.androidApp-ui-tooling-release-21 /Users/michael/.gradle/caches/8.9/transforms/7ea2eff8832256f1c7b41e2e721bb33e/transformed/ui-tooling-release/res
+io.blockz.budgeteer.android.androidApp-material3-1.1.2-22 /Users/michael/.gradle/caches/8.9/transforms/8e084c0b9c9492f22cb29b3be5ab1f1e/transformed/material3-1.1.2/res
+io.blockz.budgeteer.android.androidApp-material-1.4.1-23 /Users/michael/.gradle/caches/8.9/transforms/8f1828de315e5ab458cb4525c35680ae/transformed/material-1.4.1/res
+io.blockz.budgeteer.android.androidApp-ui-unit-release-24 /Users/michael/.gradle/caches/8.9/transforms/9be63a86aa6e9225feaaf9c49b4ec5aa/transformed/ui-unit-release/res
+io.blockz.budgeteer.android.androidApp-profileinstaller-1.3.0-25 /Users/michael/.gradle/caches/8.9/transforms/9e1a5c754bcfd670fcd7d1100b34961e/transformed/profileinstaller-1.3.0/res
+io.blockz.budgeteer.android.androidApp-annotation-experimental-1.3.0-26 /Users/michael/.gradle/caches/8.9/transforms/a1dbe579f7ab30a4a0c7ada29ea1f6f0/transformed/annotation-experimental-1.3.0/res
+io.blockz.budgeteer.android.androidApp-activity-compose-1.8.0-27 /Users/michael/.gradle/caches/8.9/transforms/a97035ea451d409170311238b43b915f/transformed/activity-compose-1.8.0/res
+io.blockz.budgeteer.android.androidApp-runtime-release-28 /Users/michael/.gradle/caches/8.9/transforms/ab9319de119ab1490e400cb8ec078d8c/transformed/runtime-release/res
+io.blockz.budgeteer.android.androidApp-startup-runtime-1.1.1-29 /Users/michael/.gradle/caches/8.9/transforms/ab93322122f2d82e7f0e87e13f78467a/transformed/startup-runtime-1.1.1/res
+io.blockz.budgeteer.android.androidApp-lifecycle-runtime-2.6.1-30 /Users/michael/.gradle/caches/8.9/transforms/baf30cd22d794f75aba8f0ad452fbb4c/transformed/lifecycle-runtime-2.6.1/res
+io.blockz.budgeteer.android.androidApp-animation-core-release-31 /Users/michael/.gradle/caches/8.9/transforms/bea3d6ee9085500a0112315a37d90273/transformed/animation-core-release/res
+io.blockz.budgeteer.android.androidApp-foundation-release-32 /Users/michael/.gradle/caches/8.9/transforms/c53c3f88d75a56b163568cbdc956f24a/transformed/foundation-release/res
+io.blockz.budgeteer.android.androidApp-customview-poolingcontainer-1.0.0-33 /Users/michael/.gradle/caches/8.9/transforms/c5e61c4d1807576e989cf35b41341d89/transformed/customview-poolingcontainer-1.0.0/res
+io.blockz.budgeteer.android.androidApp-core-ktx-1.10.0-34 /Users/michael/.gradle/caches/8.9/transforms/e324f938ad49ffdef80bdc9e2ac631b2/transformed/core-ktx-1.10.0/res
+io.blockz.budgeteer.android.androidApp-savedstate-ktx-1.2.1-35 /Users/michael/.gradle/caches/8.9/transforms/eb40a713513932ba3052894b99a403cf/transformed/savedstate-ktx-1.2.1/res
+io.blockz.budgeteer.android.androidApp-savedstate-1.2.1-36 /Users/michael/.gradle/caches/8.9/transforms/f7accd750e22e583bc955c3376cea03a/transformed/savedstate-1.2.1/res
+io.blockz.budgeteer.android.androidApp-ui-graphics-release-37 /Users/michael/.gradle/caches/8.9/transforms/f88de0914740bf5c7abaf621e047add6/transformed/ui-graphics-release/res
+io.blockz.budgeteer.android.androidApp-animation-release-38 /Users/michael/.gradle/caches/8.9/transforms/fab681e0b7526f8062540032e0aef945/transformed/animation-release/res
+io.blockz.budgeteer.android.androidApp-pngs-39 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/generated/res/pngs/debug
+io.blockz.budgeteer.android.androidApp-resValues-40 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/generated/res/resValues/debug
+io.blockz.budgeteer.android.androidApp-packageDebugResources-41 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+io.blockz.budgeteer.android.androidApp-packageDebugResources-42 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+io.blockz.budgeteer.android.androidApp-debug-43 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/merged_res/debug/mergeDebugResources
+io.blockz.budgeteer.android.androidApp-debug-44 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/src/debug/res
+io.blockz.budgeteer.android.androidApp-main-45 /Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/src/main/res
+io.blockz.budgeteer.android.androidApp-debug-46 /Users/michael/Developer/[Kotlin-MP] Budgeteer/shared/build/intermediates/packaged_res/debug/packageDebugResources

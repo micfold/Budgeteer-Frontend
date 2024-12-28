@@ -1,0 +1,4 @@
+#Sat Dec 28 12:11:30 CET 2024
+base.0=/Users/michael/Developer/[Kotlin-MP] Budgeteer/androidApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
